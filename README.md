@@ -11,4 +11,4 @@
     * unittest on operation done on matrix
   * in matrixreshare.py:
     * unittest for correctness of matrix transponation
-## In the folder 'Samples', exemples of simple algorithms are stored:
+## In the folder 'Samples', examples of simple algorithms are stored:
